@@ -1,0 +1,23 @@
+{
+  "name": "backendjs",
+  "version": "1.0.0",
+  "description": "Repository contains all the coding files from Node.js and Express.js course taken from the YouTube playlsit of FreeCodeCamp.",
+  "main": "01_intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IAmRiteshKoushik/backendJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IAmRiteshKoushik/backendJS/issues"
+  },
+  "homepage": "https://github.com/IAmRiteshKoushik/backendJS#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
