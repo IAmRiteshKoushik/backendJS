@@ -11,4 +11,5 @@ const items = [1, [2, [3, [4]]]]
 // one dimentional array using flattenDeep
 const newItems = _.flattenDeep(items)
 console.log(newItems)
+console.log("Hello people")
 
