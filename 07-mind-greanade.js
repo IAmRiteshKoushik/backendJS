@@ -9,5 +9,5 @@ function addValues() {
 // If we create a funciton that is being invoked
 // in the script of the module
 // then that can be imported directly 
-// by using the reuqire function.
+// by using the require function.
 addValues()
