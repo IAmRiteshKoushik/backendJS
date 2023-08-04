@@ -20,5 +20,8 @@
   "homepage": "https://github.com/IAmRiteshKoushik/backendJS#readme",
   "devDependencies": {
     "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
   }
 }
