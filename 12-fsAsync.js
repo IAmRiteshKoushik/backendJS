@@ -28,8 +28,7 @@ readFile('./10-content/first.txt', 'utf-8', (err, result) => {
                 return   
             }
             console.log('done with this task')
-        }
-        )
+        })
     })
 })
 
