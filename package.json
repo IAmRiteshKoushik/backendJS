@@ -18,7 +18,7 @@
     "url": "https://github.com/IAmRiteshKoushik/backendJS/issues"
   },
   "homepage": "https://github.com/IAmRiteshKoushik/backendJS#readme",
-  "dependencies": {
-    "nodemon": "^2.0.22"
+  "devDependencies": {
+    "nodemon": "^3.0.1"
   }
 }
